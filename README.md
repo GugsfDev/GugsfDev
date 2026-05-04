@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="260" src="https://i.pinimg.com/originals/b4/7c/49/b47c495f4a3a8bb36b180c667de47c6d.gif" alt="Solo Leveling - Sung Jin-Woo"/>
+<img align="right" width="260" src="https://media.tenor.com/3P_FKdKSRpIAAAAd/sung-jin-woo-solo-leveling.gif" alt="Solo Leveling - Sung Jin-Woo"/>
 
 ### 👾 Sobre mim
 
