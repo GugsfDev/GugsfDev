@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e00ff&height=200&section=header&text=Gustavo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descColor=ccaaff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Gustavo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descColor=add8e6" />
 
 </div>
 
@@ -42,6 +42,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e00ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
 
 </div>
