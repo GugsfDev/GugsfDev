@@ -19,31 +19,39 @@
 
 ---
 
-<!-- GIF Perfil -->
-<img align="right" width="260" src="https://media.tenor.com/3P_FKdKSRpIAAAAd/sung-jin-woo-solo-leveling.gif" alt="Solo Leveling - Sung Jin-Woo" style="border-radius: 12px; box-shadow: 0 0 15px #1e90ff"/>
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
 
-### 👾 Sobre mim
+<!-- Sobre mim -->
+<div style="flex:1; min-width:280px; padding-right:20px;">
+###  Sobre mim
 
 -  Guarulhos, SP — Brasil
 -  Desenvolvedor **Full-Stack**
 -  Sempre aprendendo e evoluindo
--  Foco em construir produtos completos e bem feitos
+- Foco em construir produtos completos e bem feitos
+</div>
 
-<!-- GIF Rem -->
+<!-- GIF Perfil à direita -->
+<div style="flex:1; min-width:260px; text-align:center;">
+<img src="https://media.tenor.com/3P_FKdKSRpIAAAAd/sung-jin-woo-solo-leveling.gif" alt="Solo Leveling - Sung Jin-Woo" style="border-radius: 12px; box-shadow: 0 0 15px #1e90ff; max-width:100%; height:auto"/>
+</div>
+
+</div>
+
+<!-- GIF Rem abaixo do sobre mim -->
+<div align="center" style="margin-top:20px;">
 <img width="500" height="281" alt="Rem love GIF" src="https://github.com/user-attachments/assets/073ef99a-3849-4609-8d4f-b8e6570b1bf6" style="border-radius:12px; box-shadow:0 0 10px #00bfff"/>
-
-<br clear="right"/>
+</div>
 
 ---
 
-### 🛠️ Minha Stack
+### Minha Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,python&theme=dark" />
 </div>
 
 ---
-
 
 <div align="center">
 
