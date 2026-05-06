@@ -24,11 +24,12 @@
 
 ### 👾 Sobre mim
 
-- 🏙️ Guarulhos, SP — Brasil
-- 💻 Desenvolvedor **Full-Stack**
-- 🚀 Sempre aprendendo e evoluindo
-- 🎯 Foco em construir produtos completos e bem feitos
-- ⚔️ *"Arise"*
+- Guarulhos, SP — Brasil
+- Desenvolvedor **Full-Stack**
+- Sempre aprendendo e evoluindo
+- Foco em construir produtos completos e bem feitos
+
+<img width="500" height="281" alt="rem love GIF" src="https://github.com/user-attachments/assets/073ef99a-3849-4609-8d4f-b8e6570b1bf6" />
 
 <br clear="right"/>
 
