@@ -24,10 +24,10 @@
 
 ### 👾 Sobre mim
 
-- 📍 Guarulhos, SP — Brasil
-- 💻 Desenvolvedor **Full-Stack**
-- 🌱 Sempre aprendendo e evoluindo
-- 🎯 Foco em construir produtos completos e bem feitos
+-  Guarulhos, SP — Brasil
+-  Desenvolvedor **Full-Stack**
+-  Sempre aprendendo e evoluindo
+-  Foco em construir produtos completos e bem feitos
 
 <!-- GIF Rem -->
 <img width="500" height="281" alt="Rem love GIF" src="https://github.com/user-attachments/assets/073ef99a-3849-4609-8d4f-b8e6570b1bf6" style="border-radius:12px; box-shadow:0 0 10px #00bfff"/>
@@ -44,24 +44,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GugsfDev&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GugsfDev&layout=compact&theme=react&hide_border=true)
-
-</div>
-
----
-
-### 🌟 Projetos em destaque
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://gugsfdev.github.io/portfolio/)
-[![Projeto X](https://img.shields.io/badge/ProjetoX-View-blue?style=for-the-badge&logo=github)](https://github.com/GugsfDev/projeto-x)
 
 </div>
 
