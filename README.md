@@ -19,28 +19,23 @@
 
 ---
 
-<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:20px;">
 
-<!-- Sobre mim -->
-<div style="flex:1; min-width:280px; padding-right:20px;">
-###  Sobre mim
+<!-- Texto Sobre mim -->
+<div style="flex:2; min-width:280px; padding:0 20px;">
+### Sobre mim
 
 -  Guarulhos, SP — Brasil
 -  Desenvolvedor **Full-Stack**
 -  Sempre aprendendo e evoluindo
-- Foco em construir produtos completos e bem feitos
+-  Foco em construir produtos completos e bem feitos
 </div>
 
-<!-- GIF Perfil à direita -->
-<div style="flex:1; min-width:260px; text-align:center;">
-<img src="https://media.tenor.com/3P_FKdKSRpIAAAAd/sung-jin-woo-solo-leveling.gif" alt="Solo Leveling - Sung Jin-Woo" style="border-radius: 12px; box-shadow: 0 0 15px #1e90ff; max-width:100%; height:auto"/>
+<!-- GIF Rem à direita -->
+<div style="flex:1; min-width:200px; text-align:center;">
+<img src="https://github.com/user-attachments/assets/073ef99a-3849-4609-8d4f-b8e6570b1bf6" alt="Rem love GIF" style="border-radius:12px; box-shadow:0 0 10px #00bfff; max-width:100%; height:auto"/>
 </div>
 
-</div>
-
-<!-- GIF Rem abaixo do sobre mim -->
-<div align="center" style="margin-top:20px;">
-<img width="500" height="281" alt="Rem love GIF" src="https://github.com/user-attachments/assets/073ef99a-3849-4609-8d4f-b8e6570b1bf6" style="border-radius:12px; box-shadow:0 0 10px #00bfff"/>
 </div>
 
 ---
